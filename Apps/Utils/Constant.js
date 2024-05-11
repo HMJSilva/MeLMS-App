@@ -1,0 +1,6 @@
+export default {
+  KINDE_ISSUER_URL: "https://hmjsilva.kinde.com",
+  KINDE_POST_CALLBACK_URL: "exp://192.168.1.2:8081",
+  KINDE_CLIENT_ID: "69437a4031b3464c93fefc263433662f",
+  KINDE_POST_LOGOUT_REDIRECT_URL: "exp://192.168.1.2:8081",
+};
