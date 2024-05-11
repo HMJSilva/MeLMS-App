@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "codebox-video-course-e-learning",
-    "slug": "codebox-video-course-e-learning",
+    "name": "MeLMS-App",
+    "slug": "MeLMS-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.tubeguruji.academy"
+      "package": "com.hmjsilva.MeLMSApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,7 +32,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "d507e328-dd39-4e45-bbf1-bab6f9a5fbc1"
+        "projectId": "d3142002-033f-489a-8345-ab092b2cf799"
       }
     }
   }
